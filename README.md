@@ -1,2 +1,2 @@
 # MyFirstRepository
-Some description for my first repository on Git Hub from local
+Some description for my first repository on Git Hub changed after resolving conflicts
